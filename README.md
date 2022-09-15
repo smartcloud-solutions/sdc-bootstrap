@@ -40,7 +40,7 @@
  could easily adapt this directory, script, and SMF structure to add other 
  dependencies such as a chef client, ldap-client, etc, etc. 
 
-# installation
+# Installation
 
  ssh to your headnode and cd to /opt
 
