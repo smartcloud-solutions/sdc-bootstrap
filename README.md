@@ -89,6 +89,7 @@
 
 ###
  John Barfield
+---
   `Sr. Site-Reliability Engineer @Joyent
    20+ year IT Consultant, wanna-be OSS contributor, and Entrepreneur (in my own
    free time) && *Musician|Father|Dork
