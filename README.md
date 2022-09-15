@@ -85,15 +85,13 @@
  shutdown -i6 -g0 -y
 ```
  
-## About the author:
-
-###
- John Barfield
+### About the author:
 ---
-  `Sr. Site-Reliability Engineer @Joyent
-   20+ year IT Consultant, wanna-be OSS contributor, and Entrepreneur (in my own
-   free time) && *Musician|Father|Dork
-  @Joyent:
-   SmartOS/Triton/Manta SRE
-   pkgsrc maintainer
-   Samsung Private Cloud/devOps engineering`
+John Barfield
+  **Sr. Site-Reliability Engineer @Joyent
+  **20+ year IT Consultant, wanna-be OSS contributor, and Free-Time Entrepreneur
+  **Musician|Father|Dork
+  **@Joyent:
+  **SmartOS/Triton/Manta SRE
+  **pkgsrc maintainer
+  **Samsung Private Cloud/devOps engineering
