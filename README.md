@@ -4,7 +4,7 @@
  This can be useful for your own custom SMF configurations or anything that you
  deem to be a standard requirement for your installation. 
 
- /opt/custom/share/svc currently has to bash scripts. deploy.sh and bootstrap.sh
+ /opt/custom/share/svc currently has two bash scripts. deploy.sh and bootstrap.sh
 
  I decided to start this repo as a place to save my custom startup changes to 
  read-only configuration files after boot. In this initial commit it is used for
