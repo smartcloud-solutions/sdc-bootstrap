@@ -44,7 +44,7 @@
 
  ssh to your headnode and cd to /opt
 
-'''
+```
  git clone https://github.com/smartcloud-solutions/sdc-bootstrap custom
  
  # make any custom edits to the config files before the next command.
@@ -54,7 +54,7 @@
  # alternatively you may simply reboot the headnode.
  
  shutdown -i6 -g0 -y
-'''
+```
 
  
 
