@@ -21,7 +21,7 @@
  The /etc/ipf/ipf.conf is a basic ipf.conf to block traffic on the external nic
  tag. However, it does allow port 2222 from any host. 
 
-### ssh client environment 
+#### ssh client environment 
  /etc/ssh/ssh_config removes a number of annoying aspects of managing hundreds
  or thousands of compute nodes which generate new host keys on each boot. It
  sets the known_hosts file to /dev/null, disables strict host key checking, and
