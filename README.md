@@ -88,7 +88,8 @@
 ### About the author:
 ---
 John Barfield
--Sr. Site-Reliability Engineer @Joyent 
+  
+*Sr. Site-Reliability Engineer @Joyent
 *20+ year IT Consultant, wanna-be OSS contributor, and Free-Time Entrepreneur
 *Musician|Father|Dork
 *@Joyent:
