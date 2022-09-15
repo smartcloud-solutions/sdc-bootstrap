@@ -40,6 +40,26 @@
  could easily adapt this directory, script, and SMF structure to add other 
  dependencies such as a chef client, ldap-client, etc, etc. 
 
+# installation
+
+ ssh to your headnode and cd to /opt
+
+'''
+ git clone https://github.com/smartcloud-solutions/sdc-bootstrap custom
+ 
+ # make any custom edits to the config files before the next command.
+
+ svcadm restart ipfilter ssh
+
+ # alternatively you may simply reboot the headnode.
+ 
+ shutdown -i6 -g0 -y
+'''
+
+ 
+
  Enjoy!
+ 
+ 
 
  John Barfield
